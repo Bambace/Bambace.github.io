@@ -90,6 +90,11 @@ section{
     margin: 5px;
 }
 
+.iconsm{
+    width: 50px;
+    height: 50px;
+    padding: 3px;
+}
 
 .progress-bar {
     position: relative;
