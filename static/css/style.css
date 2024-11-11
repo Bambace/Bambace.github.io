@@ -1,0 +1,84 @@
+body{
+    background-image: linear-gradient(180deg, #cdc3ff 0, #9d9df2 50%, #7278b7 100%);
+
+}
+
+/* Para que la navbar tenga un fondo transparente */
+.navbar {
+    transition: all 0.3s ease; /* Transición suave para el cambio */
+  }
+  
+.navbar-left {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px; /* Ajusta el ancho como desees */
+    height: 100%; /* Ocupa toda la altura */
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); /* Añade sombra si lo deseas */
+    z-index: 9999; /* Asegura que quede sobre otros elementos */
+  }
+  
+.navbar-default {
+    background-color: rgba(255, 255, 255, 0); /* Fondo transparente */
+  }
+  
+.logo{
+    width: 40px;
+    height: 40px;
+    filter: brightness(0,8) contrast(1.2);
+    border-radius: 100%;
+    object-fit: cover;
+}
+.img{
+    width: 20vh;
+    height: 20vh;
+    filter: brightness(0,8) contrast(1.2);
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.hero{
+    height: 70vh;
+    text-align: center;
+    margin-top: 250px;
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: opacity 1.5s ease-out, transform 3s ease-out;
+}
+section{
+   
+
+} 
+#skills{
+
+  margin-top: 50px;
+
+  
+
+}
+
+.icons{
+    width: 70px;
+    height: 70px;
+
+}
+.iconsjs{
+    width: 50px;
+    height: 70px;
+  
+}
+.iconsdb{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+.iconsb{
+  
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+}
+
+
+
+
