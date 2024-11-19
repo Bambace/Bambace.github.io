@@ -62,9 +62,16 @@ section{
 
 }
 
-.icons{
-    width: 70px;
+.iconhtml{
+    width: 60px;
     height: 70px;
+   
+
+}
+.iconcss{
+    width: 60px;
+    height: 70px;
+    margin-left: 0spx;
 
 }
 .iconsjs{
@@ -74,9 +81,9 @@ section{
 }
 .iconsbo{
     margin-top: 20px;
-    margin-left: 15px;
-    width: 60px;
-    height: 70px;
+    margin-left: 9px;
+    width: 58px;
+    height: 65px;
 }
 .iconsdb{
     width: 100px;
