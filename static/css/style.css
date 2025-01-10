@@ -37,8 +37,8 @@ body{
 }
 
 #logo{
-    width: 20vh; 
-    height: 20vh;
+    width: 35vh; 
+    height:35vh;
     filter: brightness(0,8) contrast(1.2);
     border-radius: 100%;
     /* object-fit: cover; */
@@ -60,10 +60,7 @@ body{
     transform: translateY(-20px);
     transition: opacity 1.5s ease-out, transform 3s ease-out;
 }
-section{
-   
 
-} 
 #skills{
 
   margin-top: 50px;
