@@ -4,6 +4,7 @@ body{
     color: white;
 }
 
+
 /* Para que la navbar tenga un fondo transparente */
 .navbar {
     transition: all 0.3s ease; /* Transición suave para el cambio */
@@ -34,13 +35,22 @@ body{
     border-radius: 100%;
     object-fit: cover;
 }
-.img{
+
+#logo{
+    width: 20vh; 
+    height: 20vh;
+    filter: brightness(0,8) contrast(1.2);
+    border-radius: 100%;
+    /* object-fit: cover; */
+}
+
+ .img{
     width: 20vh;
     height: 20vh;
     filter: brightness(0,8) contrast(1.2);
     border-radius: 100%;
     object-fit: cover;
-}
+} 
 
 .hero{
     height: 70vh;
@@ -151,6 +161,10 @@ section{
     height: 100px;
 }
 .testjs{
+    width: 100px;
+    height: 100px;
+}
+.Memory-Game{
     width: 100px;
     height: 100px;
 }
