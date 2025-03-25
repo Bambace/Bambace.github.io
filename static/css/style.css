@@ -155,6 +155,7 @@ body{
     width: attr(data-level); /* Pseudoclase personalizada */
 }
 
+
 .rps{
     width: 100px;
     height: 100px;
