@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "aboutMe": "About Me",
+    "skills": "My Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi! I am Eduardo Bambace",
+    "subtitle": "Full stack developer",
+    "downloadCV": "Download CV"
+  },
+  "skills": {
+    "title": "My Skills",
+    "subtitle": "Here is a summary of the technologies and tools I work with daily in frontend, backend, database, and DevOps/version control.",
+    "languages": "Languages",
+    "langNames": {
+      "spanish": "Spanish",
+      "italian": "Italian",
+      "english": "English"
+    },
+    "langLevels": {
+      "native": "Native",
+      "advanced": "Advanced",
+      "intermediate": "Intermediate"
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "A curated list of web applications and mini-games I created while learning and practicing frontend development.",
+    "viewProject": "View Project",
+    "descriptions": {
+      "rps": "The classic game built with Vanilla HTML, CSS, and JS, featuring responsive design and state tracking.",
+      "dragonball": "A database browser utilizing a public API to fetch and display cards of the main Dragon Ball characters.",
+      "guestbook": "An interactive feedback form allowing users to submit ratings, reviews, and read opinions.",
+      "calculator": "A functional, responsive math calculator with floating point arithmetic support and clean UI.",
+      "testjs": "A web-based knowledge test application that evaluates core JavaScript skills with instant grading.",
+      "memory": "A card matching memory puzzle game to test retention speeds, complete with animations and timers.",
+      "shopping": "A reactive lists manager where users can append, modify, check off, and delete items on the fly."
+    }
+  },
+  "aboutMe": {
+    "title": "About Me",
+    "para1": "Hi! I'm Eduardo, a Full-Stack Developer who loves turning complex problems into elegant solutions.",
+    "para2": "At 28, I made a life-changing decision: I left Argentina and moved to Italy in search of new challenges and a complete career pivot into technology. That leap of faith taught me resilience, adaptability, and how to thrive completely outside my comfort zone.",
+    "para3": "Today, I am a professional software developer with hands-on experience building and maintaining real-world applications. While my journey started with backend fundamentals in Java, my day-to-day work now involves bridging the gap between modern interfaces and robust legacy systems. I currently work daily with Angular and C#, integrating them with enterprise databases like AS400 using DBeaver.",
+    "para4": "Beyond the code, I consider myself a dynamic and highly curious person. I don't just write syntax; I love understanding the \"why\" behind a problem. I am driven by challenges—whether it's learning a new modern framework, optimizing a complex workflow, or adapting to new technologies on the fly.",
+    "para5": "My goal is to continue growing, collaborating with talented teams, and contributing to high-impact projects where I can bring both my technical skills and my proactive, problem-solving mindset."
+  },
+  "footer": {
+    "title": "Get in Touch",
+    "subtitle": "Feel free to reach out to me for opportunities, collaborations, or just to say hi!",
+    "rights": "All rights reserved."
+  }
+}

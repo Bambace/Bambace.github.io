@@ -1,0 +1,182 @@
+body{
+    /* background-image: linear-gradient(180deg, #b2a8e7 0, #9d9df2 50%, #7278b7 100%); */
+    background-image: linear-gradient(180deg, #2f2c3d 0, #505094 50%, #090b21 100%);
+    color: white;
+}
+
+
+/* Para que la navbar tenga un fondo transparente */
+.navbar {
+    transition: all 0.3s ease; /* Transición suave para el cambio */
+  }
+  
+.navbar-left {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px; /* Ajusta el ancho como desees */
+    height: 100%; /* Ocupa toda la altura */
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); /* Añade sombra si lo deseas */
+    z-index: 9999; /* Asegura que quede sobre otros elementos */
+  }
+  
+
+.navbar-default {
+    background-color: rgba(255, 255, 255, 0); /* Fondo transparente */
+  }
+
+
+
+
+.logo{
+    width: 40px; 
+    height: 40px;
+    filter: brightness(0,8) contrast(1.2);
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+#logo{
+    width: 35vh; 
+    height:35vh;
+    filter: brightness(0,8) contrast(1.2);
+    border-radius: 100%;
+    /* object-fit: cover; */
+}
+
+ .img{
+    width: 20vh;
+    height: 20vh;
+    filter: brightness(0,8) contrast(1.2);
+    border-radius: 100%;
+    object-fit: cover;
+} 
+
+.hero{
+    height: 70vh;
+    text-align: center;
+    margin-top: 250px;
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: opacity 1.5s ease-out, transform 3s ease-out;
+}
+
+#skills{
+
+  margin-top: 50px;
+
+  
+
+}
+
+.iconhtml{
+    width: 60px;
+    height: 70px;
+    padding: 0px;
+   
+
+}
+.iconcss{
+    width: 60px;
+    height: 70px;
+    margin-left: 0spx;
+
+}
+.iconsjs{
+    width: 50px;
+    height: 70px;
+    margin-left: 3px;
+  
+}
+.iconsbo{
+    margin-top: 30px;
+    margin-left: 10px; 
+    width: 58px;
+    height: 58px;
+    border-bottom-left-radius: 19px;
+    border-bottom-right-radius: 19px;
+}
+.iconReact{
+    width: 60px;
+    height: 60px;
+    margin-top: 28px;
+    margin-left: 10px;
+
+}
+.iconsdb{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+.iconsb{
+  
+    width: 60px;
+    height: 70px;
+    margin: 5px;
+}
+
+.iconsm{
+    width: 50px;
+    height: 50px;
+    padding: 3px;
+}
+
+.iconscv{
+    width: 70px;
+    height: 70px;
+}
+
+.progress-bar {
+    position: relative;
+    background: #e0e0e0;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.progress-bar::before {
+    content: attr(data-level);
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    color: white;
+}
+
+.progress-bar::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    border-radius: 10px;
+    background: #17d751; /* Color de la barra */
+    width: attr(data-level); /* Pseudoclase personalizada */
+}
+
+
+.rps{
+    width: 100px;
+    height: 100px;
+}
+
+.apidb{
+    width: 100px;
+    height: 100px;
+}
+.testjs{
+    width: 100px;
+    height: 100px;
+}
+.Memory-Game{
+    width: 100px;
+    height: 100px;
+}
+
+.check{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 25%;
+}

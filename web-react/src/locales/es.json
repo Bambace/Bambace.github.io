@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "aboutMe": "Acerca de Mí",
+    "skills": "Mis Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "¡Hola! Soy Eduardo Bambace",
+    "subtitle": "Desarrollador full stack",
+    "downloadCV": "Descargar CV"
+  },
+  "skills": {
+    "title": "Mis Habilidades",
+    "subtitle": "Aquí tienes un resumen de las tecnologías y herramientas con las que trabajo a diario en frontend, backend, bases de datos y DevOps/control de versiones.",
+    "languages": "Idiomas",
+    "langNames": {
+      "spanish": "Español",
+      "italian": "Italiano",
+      "english": "Inglés"
+    },
+    "langLevels": {
+      "native": "Nativo",
+      "advanced": "Avanzado",
+      "intermediate": "Intermedio"
+    }
+  },
+  "projects": {
+    "title": "Mis Proyectos",
+    "subtitle": "Una lista seleccionada de aplicaciones web y minijuegos que creé mientras aprendía y practicaba desarrollo frontend.",
+    "viewProject": "Ver Proyecto",
+    "descriptions": {
+      "rps": "El clásico juego creado con HTML, CSS y JS puro, con diseño responsivo y seguimiento de estado.",
+      "dragonball": "Un buscador de base de datos que utiliza una API pública para obtener y mostrar tarjetas de los personajes principales de Dragon Ball.",
+      "guestbook": "Un formulario de comentarios interactivo que permite a los usuarios enviar calificaciones, reseñas y leer opiniones.",
+      "calculator": "Una calculadora matemática funcional y responsiva con soporte para aritmética de punto flotante y una interfaz limpia.",
+      "testjs": "Una aplicación de prueba de conocimientos basada en web que evalúa las habilidades principales de JavaScript con calificación instantánea.",
+      "memory": "Un juego de memoria de emparejar cartas para poner a prueba la velocidad de retención, completo con animaciones y temporizadores.",
+      "shopping": "Un gestor de listas reactivo donde los usuarios pueden añadir, modificar, marcar y eliminar artículos al vuelo."
+    }
+  },
+  "aboutMe": {
+    "title": "Acerca de Mí",
+    "para1": "¡Hola! Soy Eduardo, un Desarrollador Full-Stack al que le encanta convertir problemas complejos en soluciones elegantes.",
+    "para2": "A los 28 años tomé una decisión que cambió mi vida: dejé Argentina y me mudé a Italia en busca de nuevos desafíos y un giro profesional completo hacia la tecnología. Ese salto de fe me enseñó resiliencia, adaptabilidad y cómo prosperar completamente fuera de mi zona de confort.",
+    "para3": "Hoy soy un desarrollador de software profesional con experiencia práctica en la creación y mantenimiento de aplicaciones del mundo real. Aunque mi camino comenzó con los fundamentos del backend en Java, mi trabajo diario ahora consiste en cerrar la brecha entre las interfaces modernas y los sistemas heredados robustos. Actualmente trabajo a diario con Angular y C#, integrándolos con bases de datos empresariales como AS400 utilizando DBeaver.",
+    "para4": "Más allá del código, me considero una persona dinámica y muy curiosa. No me limito a escribir sintaxis; me encanta entender el \"por qué\" detrás de un problema. Me motivan los desafíos, ya sea aprender un nuevo framework moderno, optimizar un flujo de trabajo complejo o adaptarme a nuevas tecnologías sobre la marcha.",
+    "para5": "Mi objetivo es seguir creciendo, colaborando con equipos talentosos y contribuyendo a proyectos de alto impacto donde pueda aportar tanto mis habilidades técnicas como mi mentalidad proactiva de resolución de problemas."
+  },
+  "footer": {
+    "title": "Ponte en Contacto",
+    "subtitle": "¡No dudes en ponerte en contacto conmigo para oportunidades, colaboraciones o simplemente para decir hola!",
+    "rights": "Todos los derechos reservados."
+  }
+}

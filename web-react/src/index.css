@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #1B213B;
+  /* brand-navy como fondo por defecto */
+  color: #E2E8F0;
+  /* brand-light como color de texto por defecto */
+  font-family: 'Inter', sans-serif;
+  /* Una tipografía limpia */
+}
