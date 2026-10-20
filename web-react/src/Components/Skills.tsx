@@ -18,6 +18,7 @@ const skillCategories: SkillCategory[] = [
             { name: "CSS", icon: "/static/icons/css.svg" },
             { name: "JavaScript", icon: "/static/icons/javascript.svg" },
             { name: "React", icon: "/static/icons/react-svgrepo-com.svg" },
+            { name: "Angular", icon: "/static/icons/angular.svg" },
             { name: "Tailwind CSS", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" },
             { name: "Bootstrap", icon: "/static/icons/bootstrap-4.svg" }
         ]
@@ -25,6 +26,8 @@ const skillCategories: SkillCategory[] = [
     {
         title: "Back-end",
         items: [
+            { name: "C#", icon: "/static/icons/csharp.svg" },
+            { name: ".NET", icon: "/static/icons/dotnet.svg" },
             { name: "Python", icon: "/static/icons/python.svg" },
             { name: "Flask", icon: "/static/icons/flask.svg" },
             { name: "Java", icon: "/static/icons/java.svg" }
